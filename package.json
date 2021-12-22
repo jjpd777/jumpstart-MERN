@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "plaid-threads": "^11.5.0",
+    "sass": "^1.45.1",
+    "shards-react": "^1.0.3"
+  }
+}
